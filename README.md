@@ -6,6 +6,8 @@
 
 # unistore
 
+> tkassila: a modified version of this code is under repo name 'unistore'!
+
 > A tiny 350b centralized state container with component bindings for [Preact] & [React].
 
 - **Small** footprint complements Preact nicely _(unistore + unistore/preact is ~650b)_
